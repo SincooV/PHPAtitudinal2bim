@@ -1,1 +1,0 @@
-# PHPAtitudinal2bim
