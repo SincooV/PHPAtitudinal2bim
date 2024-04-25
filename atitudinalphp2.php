@@ -1,6 +1,6 @@
 
 <?php
-function IsAproved(){
+function isAproved(){
            $pessoas = [
     'nome' => 'João De Deus',
     'notas' => [
@@ -31,7 +31,7 @@ function IsAproved(){
          echo "$nome, Passou de ano!";
      }
     }
-///// IsAproved();
+///// isAproved();
 function aritimeticAge(){
 $pessoas = [
     ['nome' => 'João', 'idade' => 20],
